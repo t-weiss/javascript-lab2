@@ -51,4 +51,4 @@ function fight(player1, player2, player1Health, player2Health) {
     }
   }
 }
-fight("tyler", " kyle", 10000000000, 10000000000);
+fight("tyler", "kyle", 100, 100);
